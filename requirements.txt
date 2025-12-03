@@ -1,2 +1,2 @@
 pycaret==3.3.2
-streamlit==1.45.1gi
+streamlit==1.45.1
